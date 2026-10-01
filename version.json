@@ -1,7 +1,7 @@
 {
-  "version": "1.2.4",
-  "url": "https://gabrieldrawgames-jpg.github.io/contabol-actualizaciones/contabol-1.2.4.zip",
-  "checksum": "5db12970b0d1cc9979cff0a32878a93f5aae4e5fde68b5db5fb4151ee774587d",
-  "notes": "Cerrar sesión ya no deja tandas de sincronización a medias; aviso si la fecha del equipo está mal",
-  "date": "2026-10-01T19:44:43.683Z"
+  "version": "1.2.5",
+  "url": "https://gabrieldrawgames-jpg.github.io/contabol-actualizaciones/contabol-1.2.5.zip",
+  "checksum": "e854268b986b8a17eb1861791b9be080dbff8da49237972bfc7dd3e87d80670b",
+  "notes": "Actualizador propio: descarga directa con porcentaje, sin depender del servicio de Android",
+  "date": "2026-10-01T20:19:06.844Z"
 }
