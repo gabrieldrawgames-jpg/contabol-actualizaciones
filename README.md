@@ -1,14 +1,5 @@
-# Contábol · actualizaciones
+# Contábol se mudó
 
-Aquí se publican las actualizaciones en vivo de la app **Contábol**.
+La página de Contábol ahora está en https://contabol.github.io/
 
-- `version.json` indica la última versión y dónde descargarla.
-- `contabol-X.Y.Z.zip` es la interfaz de esa versión.
-
-La app instalada consulta este sitio al abrirse y se actualiza sola. Aquí **no hay datos personales**: los movimientos y la información del negocio se quedan solo en el teléfono.
-
-Se publica desde `contabol/app` con:
-
-```bash
-npm run publicar -- "Qué cambió"
-```
+Este repositorio se mantiene solo para que las apps instaladas antes de la versión 1.2.8 sigan recibiendo actualizaciones. Su página de inicio redirige a la dirección nueva.
