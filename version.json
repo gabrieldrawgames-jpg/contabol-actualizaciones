@@ -1,7 +1,7 @@
 {
-  "version": "1.2.6",
-  "url": "https://gabrieldrawgames-jpg.github.io/contabol-actualizaciones/contabol-1.2.6.zip",
-  "checksum": "3f6a1ce2df0a06b3b0bdd2a4eef87dc3cf09017097df61123dae751b1e535b4c",
-  "notes": "Lo más reciente primero; descripción antes del monto; monto en Bs o en divisas; confirmar identidad para eliminar",
-  "date": "2026-10-02T19:56:20.579Z"
+  "version": "1.2.7",
+  "url": "https://gabrieldrawgames-jpg.github.io/contabol-actualizaciones/contabol-1.2.7.zip",
+  "checksum": "11ee290eb3605f37a83a546dea6d04534a0ef0b54962aac154beb3d7eef11837",
+  "notes": "Paneles de socios, saldo de apertura en dólares, el libro de la PC abre arriba",
+  "date": "2026-10-03T20:27:17.347Z"
 }
